@@ -16,7 +16,7 @@ void setup() {
 
 // обработчик сообщений
 void newMsg(FB_msg& msg) {
-  if (msg.text == "/say_hello") bot.sendMessage("Hello!", msg.chatID);
+  if (msg.text == "/say_hello") bot.sendMessage("Привет!", msg.chatID);
     else if (msg.text == "/led_on"){
     digitalWrite(LED, HIGH);
     bot.sendMessage("Светодиод включен!", msg.chatID);
