@@ -10,4 +10,4 @@
 ![image](https://github.com/stsvift/TelegramLedControl/assets/102189717/bac8660f-d76c-46d3-b3f9-d4a9ba1cd232)
 
 > [!CAUTION]
-> ***! Для работы программы требуется библиотека [FastBot](https://github.com/GyverLibs/FastBot) !***
+> **Для работы программы требуется библиотека [FastBot](https://github.com/GyverLibs/FastBot)**
