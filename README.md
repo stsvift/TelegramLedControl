@@ -9,4 +9,5 @@
 Светодиод закреплен за PIN 2 (GPIO2). Он был указан для платы ESP-01
 ![image](https://github.com/stsvift/TelegramLedControl/assets/102189717/bac8660f-d76c-46d3-b3f9-d4a9ba1cd232)
 
-!!! Для работы программы требуется библиотека FastBot (https://github.com/GyverLibs/FastBot)
+> [!CAUTION]
+> ***! Для работы программы требуется библиотека [FastBot](https://github.com/GyverLibs/FastBot) !***
